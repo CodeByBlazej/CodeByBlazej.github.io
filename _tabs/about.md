@@ -6,7 +6,10 @@ order: 4
 
 
 Hey there! I'm Blazej. Welcome to my corner of the internet!
+
+
 When I was young, I loved working on motorbikes—driving them, modifying them, and just getting my hands dirty with 2T and 4T engines. That passion stayed with me, and I still enjoy riding motorbikes whenever I get the chance. 
+
 
 I also had a passion for cars and spent my free time doing engine swaps with friends in garages. And believe me - sometimes it wasn’t fun when things went sideways.
 
