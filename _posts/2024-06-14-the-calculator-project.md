@@ -1,6 +1,6 @@
 ---
 title: The Calculator Project - Easier, Yet Full of Hurdles
-date: 2024-06-18s 12:00:00 -500
+date: 2024-06-18 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, javascript, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
 image: /assets/img/calculator/THE CALCULATOR PROJECT.png
