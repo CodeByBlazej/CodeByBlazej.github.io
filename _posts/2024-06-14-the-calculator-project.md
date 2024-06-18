@@ -1,6 +1,6 @@
 ---
 title: The Calculator Project - Easier, Yet Full of Hurdles
-date: 2024-06-14 12:00:00 -500
+date: 2024-06-18s 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, javascript, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
 image: /assets/img/calculator/THE CALCULATOR PROJECT.png
@@ -127,11 +127,11 @@ However, I might be wrong, so don’t take it for granted.
 
 The finished project can be seen here: 
 
-https://codebyblazej.github.io/Calculator-project/
+[CALCULATOR](https://codebyblazej.github.io/Calculator-project/)
 
 
 ## Reflections and Lessons Learned
 
 What was the lesson here? I enjoyed the process of making an app and designing it and learned A LOT about events. I would highly recommend you go through the extra credit process with this one!
 
-If you enjoyed this story and found the tips helpful, follow me on Twitter for more updates and coding tips. I'd love to hear about your own coding challenges and successes in the comments below!
+If you enjoyed this story and found the tips helpful, follow me on [Twitter](https://x.com/CodeByBlazej) for more updates and coding tips. I'd love to hear about your own coding challenges and successes in the comments below!
