@@ -8,9 +8,9 @@ image: /assets/img/finished foundations/FINISHED FOUNDATIONS.png
 
 On January 22, 2024, I didn’t know how to write a line of code in JavaScript on my own. 
 
-It was the day when I started my first lesson of the Foundation course by [The Odin Project](https://www.theodinproject.com/dashboard). This was the best thing I could find on my coding journey. The Odin Project saved me from tutorial hell, and all the projects you'll see below were done on my own without any help from ChatGPT or other tools—just the knowledge I gained from The Odin Project.
+It was the day when I started my first lesson of the Foundation course by [The Odin Project](https://www.theodinproject.com/dashboard). This was the best thing I could find on my coding journey. **The Odin Project saved me from tutorial hell**, and all the projects you'll see below were done on my own without any help from ChatGPT or other tools—just the knowledge I gained from The Odin Project.
 
-After exactly 440 hours and 20 minutes of learning over 111 days, from January 22, 2024, to May 11, 2024, I was able to complete the Foundations course and create the final project on my own, which was a [calculator](https://codebyblazej.com/posts/the-calculator-project/).
+After exactly **440 hours and 20 minutes** of learning over **111 days**, from January 22, 2024, to May 11, 2024, I was able to complete the Foundations course and create the final project on my own, which was a [calculator](https://codebyblazej.com/posts/the-calculator-project/).
 
 Here are some additional statistics about the time I spent on this, as I know some people are curious about how long it takes.
 
@@ -25,7 +25,7 @@ How can you copy the process? Let’s dive in.
 
 Let's start by looking at this data to see how accurate it really is. 
 
-I learned every single day for at least one hour. To calculate the study sessions, I used a [Pomodoro timer](https://www.toptal.com/project-managers/tomato-timer) set for 25 minutes each, with a 5-minute break in between. 
+I learned **every single day for at least one hour**. To calculate the study sessions, I used a [Pomodoro timer](https://www.toptal.com/project-managers/tomato-timer) set for 25 minutes each, with a 5-minute break in between. 
 
 So, I assume that 2 Pomodoros equal a 1-hour study session.
 
@@ -45,13 +45,13 @@ Many people asked, and only a few answered. It seems like most people just don�
 
 ## My Study Routine
 
-But here's how I did it, without skipping a single day, cheating, or omitting any resources. 
+But here's how I did it, **without skipping a single day, cheating, or omitting any resources**. 
 
 I read everything, sometimes including additional resources. This, however, depends on the information included or the blog quality. 
 
 If I like it or see it would benefit me to save it as a bookmark for future use, I read them and save them; if not, I just skip and move further. 
 
-But I would highly recommend you always open all additional resource links and at least poke around. 
+But I would highly recommend you **always open all additional resource links** and at least poke around. 
 
 For reference, you can have a look at all the projects I have done so far and get an idea what you will be able to accomplish after Foundation part of The Odin Project: 
 
@@ -70,7 +70,7 @@ I spend one hour working on my other blogs that are not related to Odin. If some
 
 I learn until 19:00 and then work out for about 30 minutes in my room. By 19:30, I go for a walk and come back around 21:00. Sometimes I study for 15-30 minutes more, but not very often So usually, it’s 1 to 1.5 hours a day.
 
-I'd like to mention that I don't have kids, so I don't need to pick them up from school, etc. I live alone, which helps me manage distractions and stick to my plan. 
+I'd like to mention that **I don't have kids**, so I don't need to pick them up from school, etc. **I live alone**, which helps me manage distractions and stick to my plan. 
 
 But even so, one hour is not a lot, and I think that everybody can do it.
 
@@ -102,9 +102,9 @@ A big part of my learning process was the Pomodoro Technique I already mentioned
 
 [Barbara Oakley's course on Coursera, "Learning How to Learn,"](https://www.coursera.org/learn/learning-how-to-learn) dives into how our brains work when we’re learning. She talks about the Pomodoro Technique as a great way to break study sessions into smaller chunks, making it easier for the brain to process and remember stuff. 
 
-If you're curious about the science behind effective learning, you should definitely check out this course. I think it's still free. At least it used to be when I was told about it when I was starting.
+If you're curious about the science behind effective learning, you should definitely check out this course. **I think it's still free**. At least it used to be when I was told about it when I was starting.
 
-[The Odin Project’s](https://www.theodinproject.com/dashboard) curriculum uses similar principles. They suggest structured study sessions like Pomodoros, which align with proven learning methods. Following their directions and instructions helps you not only learn the material but also build strong study habits that will benefit you in the long run.
+[The Odin Project’s](https://www.theodinproject.com/dashboard) curriculum uses similar principles. They suggest structured study sessions like Pomodoros, which align with proven learning methods. Following their directions and instructions helps you not only learn the material but also **build strong study habits that will benefit you in the long run**.
 
 
 ## Balancing Workouts and Learning
@@ -116,11 +116,11 @@ If I didn’t work out, I would be able to learn more and faster, especially on 
 
 I also have some tips that worked out for me pretty well. Remember, you are going to face a lot of time fighting procrastination between sessions. It’s very good to:
 
-- Turn on flight mode on your phone and put the device as far from you as you can.
+- **Turn on flight mode** on your phone and put the device as far from you as you can.
 
-- Don’t use your phone during the 5-minute break between Pomodoros. Stretch instead, walk around the room, and look through the window.
+- **Don’t use your phone** during the 5-minute break between Pomodoros. Stretch instead, walk around the room, and look through the window.
 
-- If you are tired and feeling sleepy, get a standing desk or use drawers or some other furniture.
+- If you are tired and feeling sleepy, **get a standing desk** or use drawers or some other furniture.
 
 ![img-description](/assets/img/finished%20foundations/standing%20desk.jpg)_My "standing desk"_
 
@@ -128,7 +128,7 @@ I also have some tips that worked out for me pretty well. Remember, you are goin
 
 There will be days when you are tired or have many negative thoughts running through your head telling you to stop, that it’s not worth it, that you might be too stupid, or that AI will be coding in the future anyway. 
 
-If all these happen during your Pomodoro sessions, DON’T WORRY AND DON’T GIVE UP. 
+If all these happen during your Pomodoro sessions, **DON’T WORRY AND DON’T GIVE UP**. 
 
 I also had loads of these thoughts, and it’s normal. Some days are worse than others, but I noticed that even the days when I was looking at the screen trying to read boring documentation 5 times helped me to at least stay consistent and build a habit.
 
