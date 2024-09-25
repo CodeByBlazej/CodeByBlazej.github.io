@@ -3,7 +3,7 @@ title: Falling in Love with Ruby - First Impressions with The Odin Project
 date: 2024-09-25 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
-image: /assets/img/why I chose Ruby/FROM REAL ESTATE TO RUBY.png
+image: /assets/img/falling in love with ruby/falling in love with ruby.png
 ---
 
 Hi! If you read my [previous article](https://codebyblazej.com/posts/from-real-estate-to-ruby/) about why I chose Ruby you know why I didn’t follow JS even though it was still deep in my memory after finishing the Calculator project and the whole Foundations from [The Odin Project](https://www.theodinproject.com/dashboard).
