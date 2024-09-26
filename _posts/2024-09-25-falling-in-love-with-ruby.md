@@ -142,4 +142,4 @@ If you are in a similar place with your learning schedule and feeling tired and 
 
 Tic-Tac-Toe helped me to refresh all my knowledge about OOP and it seems like Mastermind feels much more fun as at this point I know how to solve many problems. Keep going, everything will click at some point!
 
-I’ll keep you updated after I’m done with another challenge. 
+I’ll keep you updated after I’m done with another challenge.  
