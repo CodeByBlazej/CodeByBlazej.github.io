@@ -1,9 +1,9 @@
 ---
 title: How to Understand IO and TTY in Linux for Begginers
-date: 2024-11-12 12:00:00 -500
+date: 2024-11-11 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
-image: /assets/img/tty session/io and tty in linux for beginners.png
+image: /assets/img/tty session/IO and TTY in Linux for Beginners.png
 ---
 
 After I finished Mastermind project which was the most difficult project so far I moved to Files and Serialization lesson in [The Odin Project](https://www.theodinproject.com/) curriculum. 
