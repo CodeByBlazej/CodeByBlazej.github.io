@@ -1,5 +1,5 @@
 ---
-title: How to Understand IO and TTY in Linux for Begginers
+title: How to Understand IO and TTY in Linux for Beginners
 date: 2024-11-11 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
