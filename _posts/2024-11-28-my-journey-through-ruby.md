@@ -1,6 +1,6 @@
 ---
 title: My Journey Through Ruby Event Manager, Hangman, and Tackling Coolant Leaks
-date: 2024-11-28 12:00:00 -500
+date: 2024-11-27 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
 image: /assets/img/my journey through ruby/my journey through ruby.png
