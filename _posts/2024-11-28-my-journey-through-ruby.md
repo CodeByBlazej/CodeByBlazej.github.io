@@ -50,7 +50,6 @@ But to be honest, it wasn’t as bad. Pattern Matching and Blocks opened my eyes
 
 While these concepts are still new to me, I see how they can streamline collaboration in larger applications.
 
-
 ## Final Words
 
 I’m currently working through the "A Bit of Computer Science" lesson, and I have no idea how long it’ll take to finish. 
