@@ -3,7 +3,7 @@ title: Connect Four Summary
 date: 2025-04-01 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
-image: /assets/img/connect four thumbnail.png
+image: /assets/img/connect four summary/connect four thumbnail.png
 ---
 
 My most recent project was the Connect Four terminal game. This project was supposed to improve my TDD (Test-Driven Development) skills, as I had to write tests for every step.
