@@ -6,7 +6,7 @@ tags: [the odin project, ruby, coding challenges, problem solving, beginner prog
 image: /assets/img/connect four summary/connect four thumbnail.png
 ---
 
-My most recent project was the Connect Four terminal game. This project was supposed to improve my TDD (Test-Driven Development) skills, as I had to write tests for every step.
+My most recent project was the Connect Four terminal game. [You can check this out here if you want.](https://github.com/CodeByBlazej/Connect-Four) This project was supposed to improve my TDD (Test-Driven Development) skills, as I had to write tests for every step.
 
 It was a loooong project, and in this article, I’m going to tell you why.
 
