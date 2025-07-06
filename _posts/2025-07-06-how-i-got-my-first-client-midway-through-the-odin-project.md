@@ -3,7 +3,7 @@ title: How I Got My First Client Midway Through The Odin Project
 date: 2025-07-05 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
-image: /assets/img/jumping into traffic.png
+image: /assets/img/how i got my first client midway through the odin project/jumping into traffic.png
 cover_link: https://unsplash.com/@windagh
 ---
 
