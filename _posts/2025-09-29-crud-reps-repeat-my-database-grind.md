@@ -1,9 +1,10 @@
 ---
 title: CRUD, reps, repeat - My Database Grind
-date: 2025-09-29 12:00:00 -500
+date: 2025-09-29 12:00:00 +01:00
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
 image: /assets/img/crud reps repeat/databases thumbnail.png
+
 ---
 
 Howdy! Just wanted to share how the database section went. It was packed! Like always, I kept track of the hours and days (for anyone curious). It ended up taking me exactly 30 days, from 17/07 to 17/08, and exactly 73 hours. 
