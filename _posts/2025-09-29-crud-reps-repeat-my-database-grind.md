@@ -8,7 +8,7 @@ image: /assets/img/crud reps repeat/databases thumbnail.png
 
 Howdy! Just wanted to share how the database section went. It was packed! Like always, I kept track of the hours and days (for anyone curious). It ended up taking me exactly 30 days, from 17/07 to 17/08, and exactly 73 hours. 
 
-I’m posting this a little later than I thought I would, because I switched up the way I track my time. I’ll do a separate post on that since it might help somebody.
+I’m posting this a little later than I thought I would, because I switched up the way I track my time. I’ll do a separate post on that since it might help somebody. 
 
 ## Databases
 
