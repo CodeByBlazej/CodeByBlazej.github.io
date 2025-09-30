@@ -1,5 +1,5 @@
 ---
-title: CRUD, reps, repeat: My Database Grind
+title: CRUD, reps, repeat - My Database Grind
 date: 2025-09-29 12:00:00 -500
 categories: [Learning to Code]
 tags: [the odin project, ruby, coding challenges, problem solving, beginner programmer, coding motivation]     # TAG names should always be lowercase
